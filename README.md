@@ -1,5 +1,6 @@
-## Hi there 👋
+## BUETCSE23 SecA
 
+![](https://komarev.com/ghpvc/?username=BUETCSE23&color=brightgreen)
 <!--
 **BUETCSE23/BUETCSE23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
